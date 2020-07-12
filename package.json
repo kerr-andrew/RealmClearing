@@ -1,0 +1,25 @@
+{
+  "name": "realmclearing",
+  "version": "1.0.0",
+  "description": "Application for solo-clearing realms in the game of Realm of the Mad God.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerr-andrew/RealmClearing.git"
+  },
+  "keywords": [
+    "rotmg"
+  ],
+  "author": "Husky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerr-andrew/RealmClearing/issues"
+  },
+  "homepage": "https://github.com/kerr-andrew/RealmClearing#readme",
+  "devDependencies": {
+    "electron": "^9.1.0"
+  }
+}
