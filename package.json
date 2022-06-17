@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/kerr-andrew/RealmClearing#readme",
   "devDependencies": {
-    "electron": "^9.1.0"
+    "electron": "^15.5.5"
   }
 }
